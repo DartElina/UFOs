@@ -2,7 +2,7 @@
 ![image](https://github.com/DartElina/UFOs/blob/78a746d6a42e045b3f198681b9cd97f41637592c/static/images/header%20image.png)
 
 ## Overview of Project:
-Dana has created a UFO sighting website that sorted UFO sighting data by date that users input. I liked her site very much but decided to create some more interactivity by adding more filter options. Additionally, Dana's site had a button that had to be clicked. To improve user experience I have enabled the table to be filter by hitting enter and removed the button clicking entirely. 
+Dana has created a UFO sighting website that sorted UFO sighting data by date that users input. I liked her site very much but decided to create some more interactivity by adding more filter options. Additionally, Dana's site had a button that had to be clicked. To improve user experience I have enabled the table to be filter by entering any info into the field, and removed the button clicking entirely. 
 
 -----------
 ## Results: 
@@ -14,7 +14,7 @@ With more filter options users can narow down very specific sightings down. See 
 
 ![image](https://github.com/DartElina/UFOs/blob/78a746d6a42e045b3f198681b9cd97f41637592c/static/images/unfiltered%20many%20options.png)
 ### Examples of Use:
-Entering some variables into the fields and hitting enter on the keyboard yeilds a targeted and clear table. 
+Entering some variables into the fields yeilds a targeted and clear table. 
 
 ![image](https://github.com/DartElina/UFOs/blob/78a746d6a42e045b3f198681b9cd97f41637592c/static/images/filtered%20table.png)
 
